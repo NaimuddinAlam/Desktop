@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/vnews"
+        android:title="@string/ao_news" />
+
+    <item android:id="@+id/vDance"
+        android:title="@string/ao_music" />
+    <item
+        android:id="@+id/vComedy"
+        android:title="@string/ao_comedy"
+        />
+    <item
+        android:id="@+id/vReligion"
+        android:title="@string/ao_rel"
+        />
+    <item
+        android:id="@+id/vFilm"
+        android:title="@string/ao_film"
+        />
+    <item
+        android:id="@+id/vtechnology"
+        android:title="@string/ao_tech" />
+
+    <item
+        android:id="@+id/vSports"
+        android:title="@string/ao_sport"
+        />
+    <item
+        android:id="@+id/vLifestyle"
+        android:title="@string/ao_life"
+        />
+    <item
+        android:id="@+id/vshiksha"
+        android:title="@string/ao_shiksha"
+        />
+
+</menu>

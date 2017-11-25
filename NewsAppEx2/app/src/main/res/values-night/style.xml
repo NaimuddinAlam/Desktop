@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppThemes"
+        parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/night_mode_color</item>
+        <item name="colorPrimaryDark">@color/night_mode_dark_color</item>
+        <item name="colorAccent">@color/colorAccents</item>
+        <item name="android:windowBackground">@color/backgrounds</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColor">@color/textColors</item>
+    </style>
+</resources>

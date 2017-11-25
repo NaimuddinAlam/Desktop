@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="night_mode_color">#998b88</color>
+    <color name="night_mode_dark_color">#42adc8</color>
+    <color name="colorAccents">#2ee827</color>
+    <color name="textColorPrimary">#ffff00</color>
+    <color name="textColors">#FFFFFF</color>
+    <color name="backgrounds">#000000</color>
+    <color name="bar">#6f8b5c</color>
+</resources>

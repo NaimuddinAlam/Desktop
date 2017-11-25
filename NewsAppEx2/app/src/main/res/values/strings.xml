@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name" translatable="false">NEWSMALL</string>
+    <string name="app_title" translatable="false">NEWSMALL</string>
+    <string name="enter_email">Enter Email:</string>
+    <string name="nameerror">Enter Valid Name</string>
+    <string name="emailerror">Enter Valid Email</string>
+    <string name="passworderror">Enter the pass with must be contains 0-9,one Uppercase and lowercase characters,Special symbols like @#$%,and at least 6 characters..Ex:Abc10@</string>
+    <string name="cpasserror">Please Enter Right password </string>
+    <string name="mobileerror">Enter Valid Mobile Number</string>
+
+    <string-array name="language">
+        <item>--Select--</item>
+        <item>English</item>
+        <item>हिंदी</item>
+    </string-array>
+
+    <!--//Bottom_navigation-->
+    <string name="item_home">Home</string>
+    <string name="item_video">Video</string>
+    <string name="item_follow">Follow</string>
+    <string name="item_me">Me</string>
+
+    <!--//login_screen-->
+    <!---->
+    <string name="login_email">Email</string>
+    <string name="login_pass">Password</string>
+    <string name="login_for">Forget Password</string>
+    <string name="login_login">Login</string>
+    <string name="login_mem">Not a member?</string>
+    <string name="login_sign">Sign up now</string>
+    <string name="login_skip">Skip</string>
+
+    <!--//register-->
+
+    <string name="register_name">Enter Name:</string>
+    <string name="register_email">Enter Email:</string>
+    <string name="register_mo">Mobile No:</string>
+    <string name="register_pass">Enter Password</string>
+    <string name="register_cpass">Confirm Password:</string>
+    <string name="register_regi">Register</string>
+    <!---->
+    <!--//setting-->
+
+    <string name="setting_set">Setting</string>
+
+    <!--//loding-->
+
+    <string name="loading_l">Loading....</string>
+
+    <!--//activitythree-->
+
+    <string name="three_sign">Please Sign in..</string>
+    <string name="three_noti">Notification</string>
+    <string name="three_book">BookMark</string>
+    <string name="three_follow">Follow</string>
+    <string name="three_down">Offline Reading</string>
+    <string name="three_lang">Language</string>
+    <string name="three_feed">Feedback</string>
+    <string name="three_nightMode">Night Mode</string>
+    <string name="three_followfb">Follow us on facebook</string>
+    <string name="three_set">Setting</string>
+    <string name="three_log">LogOut</string>
+
+
+    <!--//Setting-->
+
+    <string-array name="setting">
+        <item>Language</item>
+        <item>Notification</item>
+        <item>Quick Read</item>
+        <item>Updates</item>
+        <item>Help</item>
+        <item>About Us</item>
+    </string-array>
+     <!--//Main Activity-->
+
+    <string name="ma_sport">Sport</string>
+    <string name="ma_enter">Entertainment</string>
+    <string name="ma_gad">Gadgets</string>
+    <string name="ma_auto">AUTO(Mobiles)</string>
+    <string name="ma_poli">POLITICS</string>
+    <string name="ma_crime">CRIME</string>
+    <string name="ma_edu">EDUCATION</string>
+    <string name="ma_jokes">FUN(Jokes)</string>
+    <string name="ma_crick">Cricket</string>
+    <string name="ma_top">Top</string>
+    <string name="ma_life">LifeStyle</string>
+    <string name="ma_helth">Helth</string>
+    <string name="ma_business">Business</string>
+
+    <!--News-->
+    <!--Music/Dance-->
+    <!--Comedy-->
+    <!--Religion-->
+    <!--Film/Tv-->
+    <!--technology-->
+    <!--Sports-->
+    <!--Lifestyle-->
+    <!--shiksha (motivationl)-->
+
+    <!---->
+    <!--//Activity Three-->
+    <string name="ao_news">News</string>
+    <string name="ao_music">Music/Dance</string>
+    <string name="ao_comedy">Comedy</string>
+    <string name="ao_rel">Religion</string>
+    <string name="ao_film">Film/Tv</string>
+    <string name="ao_tech">technology</string>
+    <string name="ao_sport">Sports</string>
+    <string name="ao_life">Lifestyle</string>
+    <string name="ao_shiksha">shiksha (motivationl)</string>
+
+<!--//About us-->
+
+    <string name="au_about">About Us</string>
+    <!--//help-->
+    <string name="ao_help">Help</string>
+    <string name="ao_homepage">Home Page Update</string>
+
+
+    <!--//Setting-->
+    <string name="set_qr">Quick Read</string>
+    <string name="set_up">Update</string>
+    <string name="ss_help">set_up</string>
+    <string name="set_about">About Us</string>
+    <string name="search">Search Text</string>
+
+
+
+
+    <string name="loading">loading</string>
+    <string name="facebook_app_id">366720170431579</string>
+    <string name="fb_login_protocol_scheme">fb366720170431579</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+

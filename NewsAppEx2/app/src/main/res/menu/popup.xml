@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sports"
+        android:title="@string/ma_sport" />
+
+    <item android:id="@+id/entertainment"
+        android:title="@string/ma_enter" />
+    <item
+        android:id="@+id/gadgets"
+        android:title="@string/ma_gad"
+        />
+    <item
+        android:id="@+id/auto"
+        android:title="@string/ma_auto"
+        />
+    <item
+        android:id="@+id/politics"
+        android:title="@string/ma_poli"
+        />
+    <item
+        android:id="@+id/crime"
+        android:title="@string/ma_crime" />
+
+    <item
+        android:id="@+id/education"
+        android:title="@string/ma_edu"
+        />
+    <item
+        android:id="@+id/fun"
+        android:title="@string/ma_jokes"
+        />
+    <item
+        android:id="@+id/cricket"
+        android:title="@string/ma_crick"
+        />
+
+    <item
+        android:id="@+id/top"
+        android:title="@string/ma_top"
+        />
+
+<item
+    android:id="@+id/lifeStyle"
+    android:title="@string/ma_life" />
+
+    <item
+        android:id="@+id/health"
+        android:title="@string/ma_helth"
+        />
+
+    <item
+    android:id="@+id/business"
+    android:title="@string/ma_business" />
+
+
+
+
+</menu>

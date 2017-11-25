@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/llayout"
+    android:orientation="horizontal"
+    android:layout_height="160dp">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="0.4"
+        android:layout_height="140dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/title"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="18sp"
+            android:layout_weight="0.9"
+            android:text="Title:" />
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.1"
+            android:textSize="10sp"
+            android:gravity="left"
+            android:text="Time:" />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.6"
+        android:id="@+id/image"
+        android:src="@drawable/login"/>
+
+</LinearLayout>

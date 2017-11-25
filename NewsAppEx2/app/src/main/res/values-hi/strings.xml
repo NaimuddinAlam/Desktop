@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name" translatable="false">NewsAppEx2</string>
+    <string name="app_title" translatable="false">NEWS MALL</string>
+    <string name="enter_email">ईमेल दर्ज करें:</string>
+    <string name="nameerror">मान्य नाम दर्ज करें</string>
+    <string name="emailerror">मान्य ईमेल दर्ज करें</string>
+    <string name="passworderror">पास के पास दर्ज होना चाहिए जिसमें 0-9, एक अपरकेस और लोअरकेस वर्ण, विशेष @ प्रतीक # $%, और कम से कम 6 वर्ण हैं...Ex:Abc10@</string>
+    <string name="mobileerror">वैध मोबाइल नंबर दर्ज करें</string>
+
+    <string-array name="भाषा">
+        <item>--Select--</item>
+        <item>English</item>
+        <item>हिंदी</item>
+
+    </string-array>
+
+    <!--//Bottom_navigation-->
+
+    <string name="item_home">होम</string>
+    <string name="item_video">वीडियो</string>
+    <string name="item_follow">फालो</string>
+    <string name="item_me">मी</string>
+
+    <!--//login_screen-->
+
+    <string name="login_email">ई-मेल</string>
+    <string name="login_pass">पैस्वर्ड</string>
+    <string name="login_for">पासवर्ड भूल गए?</string>
+    <string name="login_login">लॉग इन करें</string>
+    <string name="login_mem">सदस्य नहीं है?</string>
+    <string name="login_sign">अभी साइनअप करें</string>
+    <string name="login_skip">छोड़ें</string>
+
+    <!--//register-->
+
+    <string name="register_name">नाम दर्ज करें:</string>
+    <string name="register_email">ईमेल दर्ज करें:</string>
+    <string name="register_mo">मोबाइल नंबर दर्ज करें:</string>
+    <string name="register_pass">पासवर्ड दर्ज करें</string>
+    <string name="register_cpass">पासवर्ड की पुष्टि कीजिये:</string>
+    <string name="register_regi">पंजीकरण करें</string>
+
+    <!--//setting-->
+
+    <string name="setting_set">सेटिंग</string>
+
+    <!--//loding-->
+
+    <string name="loading_l">लोड हो रहा है....</string>
+
+    <!--//activitythree-->
+
+    <string name="three_sign">कृपया साइन इन करें..</string>
+    <string name="three_noti">अधिसूचना</string>
+    <string name="three_book">बुकमार्क</string>
+    <string name="three_follow">फालो</string>
+    <string name="three_nightMode">रात्री मोड</string>
+    <string name="three_down">ऑफ़लाइन पढ़ना</string>
+    <string name="three_lang">भाषा</string>
+    <string name="three_feed">फीडबैक</string>
+    <string name="three_followfb">हमें फ़ेसबुक पर फ़ॉलो करें</string>
+    <string name="three_set">सेटिंग</string>
+    <string name="three_log">लोग आउट</string>
+
+
+
+    <!--//MainActivity-->
+
+    <!--<string name="ma_life">लाइफ स्टाइल</string>-->
+    <!--<string name="ma_crime">अपराध</string>-->
+    <!--<string name="ma_Busi">व्यापार</string>-->
+    <!--<string name="ma_poli">राजनीति</string>-->
+    <!--<string name="ma_gat">गैजेट्स</string>-->
+    <!--<string name="ma_edu">शिक्षा</string>-->
+    <!--<string name="ma_ent">मनोरंजन</string>-->
+    <!--<string name="ma_jokes">मजाक</string>-->
+    <!--<string name="ma_crick">क्रिकेट</string>-->
+    <!--<string name="ma_top">टॉप</string>-->
+    <!--<string name="ma_sport">खेल</string>-->
+    <!--<string name="ma_helth">स्वास्थ्य</string>-->
+    <!--<string name="ma_mobile">मोबाइल</string>-->
+
+
+
+    <!--//Main Activity-->
+
+    <string name="ma_sport">खेल</string>
+    <string name="ma_enter">मनोरंजन</string>
+    <string name="ma_gad">गैजेट्स</string>
+    <string name="ma_auto">मोबाइल</string>
+    <string name="ma_poli">राजनीति</string>
+    <string name="ma_crime">अपराध</string>
+    <string name="ma_edu">शिक्षा</string>
+    <string name="ma_jokes">मजाक</string>
+    <string name="ma_crick">क्रिकेट</string>
+    <string name="ma_top">टॉप</string>
+    <string name="ma_life">लाइफ स्टाइल</string>
+    <string name="ma_helth">स्वास्थ्य</string>
+    <string name="ma_business">व्यापार</string>
+
+    <!--//Activity Three-->
+    <string name="ao_news">समाचार</string>
+    <string name="ao_music">संगीत/नृत्य</string>
+    <string name="ao_comedy">कॉमेडी</string>
+    <string name="ao_rel">धार्मिक</string>
+    <string name="ao_film">फिल्म/टीवी</string>
+    <string name="ao_tech">प्रौद्योगिकी</string>
+    <string name="ao_sport">खेल</string>
+    <string name="ao_life">लाइफ स्टाइल</string>
+    <string name="ao_shiksha">शिक्षा(प्रेरक)</string>
+
+    <!--//About us-->
+
+    <string name="au_about">हमारे बारे में</string>
+    <!--//help-->
+    <string name="ao_help">मदद</string>
+    <string name="ao_homepage">होम पेज अपडेट</string>
+
+
+    <!--//Setting-->
+    <string name="set_qr">त्वरित पढ़ें</string>
+    <string name="set_up">अद्यतन करें</string>
+    <string name="ss_help">मदद</string>
+    <string name="set_about">हमारे बारे मे</string>
+    <string name="sss_search">टेक्स्ट खोजें</string>
+
+
+
+
+</resources>
+

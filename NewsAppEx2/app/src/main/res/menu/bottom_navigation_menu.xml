@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      >
+
+    <item
+        android:id="@+id/ic_arrow"
+        android:icon="@drawable/home"
+        android:title="@string/item_home"
+        />
+
+        <item
+            android:id="@+id/ic_android"
+            android:icon="@drawable/videos"
+            android:title="@string/item_video"
+            />
+        <item
+            android:id="@+id/ic_books"
+            android:icon="@drawable/follow"
+            android:title="@string/item_follow"
+            />
+        <item
+            android:id="@+id/ic_center_focus"
+            android:icon="@drawable/me"
+            android:title="@string/item_me"
+            />
+
+
+
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629016365911",
+    "project_id": "newsmallex1"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629016365911:android:48fe112f2d7639e7",
+        "android_client_info": {
+          "package_name": "com.example.gulshan.newsappex2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629016365911-7j97hv4542otqqkvu1cet2qut16p4r9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gulshan.newsappex2",
+            "certificate_hash": "9f7e04174e014beebc2e31d4598b4f1fde9081bb"
+          }
+        },
+        {
+          "client_id": "629016365911-gedl4gcsla7087uhopevkulfkhhea1kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxqYnGp4659z1mSqURMv-pdfm4RaHJF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
